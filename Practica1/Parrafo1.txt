@@ -1,0 +1,3 @@
+Practica de github donde se aprenden diferentes comandos para un respositorio.
+
+Acá se ve como hicimos la modificaciones al  segundo parrafo !! :D
